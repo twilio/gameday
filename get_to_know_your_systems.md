@@ -22,6 +22,11 @@
   * [What Service Level Indicators (SLIs) do we use to measure the achieved experience?](#what-service-level-indicators-slis-do-we-use-to-measure-the-achieved-experience)
 * [Preparation Checklist](#preparation-checklist)
   * [Toolbox](#toolbox)
+  * [Before the Game Day](#before-the-gameday)
+  * [After the Game Day](#after-the-gameday)
+* [Gameday](#gameday)
+  * [Roles and Responsibilities](#roles-and-responsibilities)
+  * [Scenario 1 - Get To Know Your System](#scenario-1-get-to-know-your-system)
 ## 
 
 
@@ -93,7 +98,7 @@ Document the SLIs that are monitored for this system. These are the high-level m
 ## Preparation Checklist {#preparation-checklist}
 
 
-### Toolbox {#toolbox}
+### <a name="toolbox"></a>Toolbox
 
 
 <table>
@@ -143,7 +148,7 @@ Document the SLIs that are monitored for this system. These are the high-level m
 
 
 
-### Before the Gameday: {#before-the-gameday}
+### <a name="before-the-gameday"></a>Before the Gameday
 
 
 
@@ -159,7 +164,7 @@ Document the SLIs that are monitored for this system. These are the high-level m
 *   Prepare failure injection script if necessary.
 
 
-### After the Gameday: {#after-the-gameday}
+### <a name="after-the-gameday"></a>After the Gameday
 
 
 
@@ -170,10 +175,10 @@ Document the SLIs that are monitored for this system. These are the high-level m
 
 
 
-## Gameday {#gameday}
+## <a name="gameday"></a>Gameday 
 
 
-### Roles and Responsibilities {#roles-and-responsibilities}
+### <a name="roles-and-responsibilities"></a>Roles and Responsibilities
 
 
 <table>
@@ -230,7 +235,7 @@ Document the SLIs that are monitored for this system. These are the high-level m
 
 
 
-### Scenario 1 - Get To Know Your System {#scenario-1-get-to-know-your-system}
+### <a name="scenario-1-get-to-know-your-system"></a>Scenario 1 - Get To Know Your System 
 
 **Description:** The first type of Gameday that should be run for each system a team owns. A small amount of load to generate happy path traffic is placed on the system, and the team reviews everything together.
 
