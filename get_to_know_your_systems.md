@@ -95,7 +95,7 @@ Document the SLIs that are monitored for this system. These are the high-level m
 
 
 
-## Preparation Checklist {#preparation-checklist}
+## <a name="preparation-checklist"></a>Preparation Checklist 
 
 
 ### <a name="toolbox"></a>Toolbox
